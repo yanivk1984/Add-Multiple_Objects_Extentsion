@@ -1,7 +1,7 @@
 {
     "extension": {
-      "name": "Regular Expression Search",
-      "product-url": "https://yanivk1984.github.io/Check_Point_Regex_Extension/",
+      "name": "Add Multiple Objects",
+      "product-url": "https://yanivk1984.github.io/Add-Multiple_Objects_Extentsion/production/index.html",
       "provider": "extensions@checkpoint.com",
       "version": "1.0",
       "extension-version-requirements": {
@@ -14,8 +14,8 @@
         "relevant-types": ["gateways"],
         "ui-element": {
           "type": "tab",
-          "caption": "Regular Expression Search",
-          "tooltip": "Perform Regular Expression Search on Check Point SmartConsole",
+          "caption": "Add Multiple Objects",
+          "tooltip": "Quickly add multiple objects objects",
           "action": {
             "details-level": "full",
             "method": "get",
