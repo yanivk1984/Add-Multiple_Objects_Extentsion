@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,sBACF,CAEA,MACE,gBACF,CAEA,mCACE,WAAY,CACZ,wBAEF","file":"main.075ce9fb.chunk.css","sourcesContent":["body {\n  margin: 0;\n  font-family: sans-serif;\n}\n\ntable {\n  margin-left: 10px;\n}\n\n.btn-primary, .btn-danger, .btn-info {\n  height: 30px;\n  font-size: 15px !important;\n\n}"]}

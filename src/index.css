@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+table {
+  margin-left: 10px;
+}
+
+.btn-primary, .btn-danger, .btn-info {
+  height: 30px;
+  font-size: 15px !important;
+
+}
