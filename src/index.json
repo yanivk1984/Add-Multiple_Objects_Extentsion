@@ -20,7 +20,7 @@
             "details-level": "full",
             "method": "get",
             "trigger-id": "gateways-details-pane",
-            "url": "https://yanivk1984.github.io/Add-Multiple_Objects_Extentsion/src/index.json"
+            "url": "https://yanivk1984.github.io/Add-Multiple_Objects_Extentsion/production/index.html"
           }
         }
       }
